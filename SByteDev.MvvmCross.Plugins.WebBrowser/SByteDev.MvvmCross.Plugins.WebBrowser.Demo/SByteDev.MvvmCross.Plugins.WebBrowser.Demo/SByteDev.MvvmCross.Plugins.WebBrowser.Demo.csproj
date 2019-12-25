@@ -10,6 +10,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="SByteDev.MvvmCross.Plugins.WebBrowser" Version="1.0.0" />
+      <PackageReference Include="SByteDev.MvvmCross.Plugins.WebBrowser" Version="1.0.2" />
     </ItemGroup>
 </Project>
