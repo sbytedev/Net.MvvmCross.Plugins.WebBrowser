@@ -1,9 +1,8 @@
 # MvvmCross WebBrowser Plugin
 ![GitHub](https://img.shields.io/github/license/SByteDev/Net.MvvmCross.Plugins.WebBrowser.svg)
 ![Nuget](https://img.shields.io/nuget/v/SByteDev.MvvmCross.Plugins.WebBrowser.svg)
-
-[![Build Status](https://travis-ci.org/SByteDev/Net.MvvmCross.Plugins.WebBrowser.svg?branch=master)](https://travis-ci.org/SByteDev/Net.MvvmCross.Plugins.WebBrowser)
-[![codecov](https://codecov.io/gh/SByteDev/Net.MvvmCross.Plugins.WebBrowser/branch/master/graph/badge.svg)](https://codecov.io/gh/SByteDev/Net.MvvmCross.Plugins.WebBrowser)
+[![Build Status](https://img.shields.io/bitrise/697b69986877a838/develop?label=development&token=_sL-pCI3pB-o4Glk8TcSkw&branch)](https://app.bitrise.io/app/697b69986877a838)
+[![Build Status](https://img.shields.io/bitrise/697b69986877a838/master?label=production&token=_sL-pCI3pB-o4Glk8TcSkw&branch)](https://app.bitrise.io/app/697b69986877a838)
 [![CodeFactor](https://www.codefactor.io/repository/github/sbytedev/net.mvvmcross.plugins.webbrowser/badge)](https://www.codefactor.io/repository/github/sbytedev/net.mvvmcross.plugins.webbrowser)
 
 Provides a cross-platform UI for displaying the web page.
