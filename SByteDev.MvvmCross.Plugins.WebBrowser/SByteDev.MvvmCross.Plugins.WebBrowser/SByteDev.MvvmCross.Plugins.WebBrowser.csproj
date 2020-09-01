@@ -27,7 +27,7 @@
 
     <ItemGroup>
         <PackageReference Include="MvvmCross" Version="6.4.1" />
-        <PackageReference Include="SByteDev.Xamarin.Plugins.WebBrowser" Version="1.0.2" />
+        <PackageReference Include="SByteDev.Xamarin.Plugins.WebBrowser" Version="1.0.3" />
     </ItemGroup>
 
 </Project>
