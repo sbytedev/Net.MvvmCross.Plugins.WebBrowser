@@ -4,7 +4,7 @@
         <TargetFrameworks>netstandard2.0;Xamarin.iOS10;MonoAndroid90</TargetFrameworks>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageId>SByteDev.MvvmCross.Plugins.WebBrowser</PackageId>
-        <PackageVersion>1.0.2</PackageVersion>
+        <PackageVersion>1.0.3</PackageVersion>
         <Title>MvvmCross WebBrowser Plugin</Title>
         <Description>WebBrowser Plugin for MvvmCross.</Description>
         <Copyright>SByteDev</Copyright>
@@ -16,6 +16,7 @@
         <PackageProjectUrl>https://github.com/SByteDev/Net.MvvmCross.Plugins.WebBrowser</PackageProjectUrl>
         <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageReleaseNotes>Update MvvmCross to 7.0.0</PackageReleaseNotes>
         <PublishRepositoryUrl>true</PublishRepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <RepositoryUrl>https://github.com/SByteDev/Net.MvvmCross.Plugins.WebBrowser</RepositoryUrl>
@@ -26,8 +27,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="MvvmCross" Version="6.4.1" />
-        <PackageReference Include="SByteDev.Xamarin.Plugins.WebBrowser" Version="1.0.2" />
+        <PackageReference Include="MvvmCross" Version="7.0.0" />
+        <PackageReference Include="SByteDev.Xamarin.Plugins.WebBrowser" Version="1.0.3" />
     </ItemGroup>
 
 </Project>
